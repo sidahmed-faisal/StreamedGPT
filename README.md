@@ -1,4 +1,7 @@
 # StreamedGPT
- Simple Streamlit App to steaming chatGPT response behavior
+ ChatBot Streamlit App to mimic chatGPT response behavior
 
-to run the app use the following command : python -m streamlit run streamedGPT.py
+* to run the app use the following command :
+```
+  python -m streamlit run streamedGPT.py
+```
