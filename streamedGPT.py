@@ -4,7 +4,7 @@ import streamlit as st
 import time
 
 # OpenAI API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 #INPUT INTERFACE & SUBMIT BUTTON
 st.title('Stream ChatGPT responses')
